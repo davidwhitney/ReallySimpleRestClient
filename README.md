@@ -13,7 +13,7 @@ Roadmap
 
 * Make it easy to swap http libs similar to Web Api Formatters
 * Swap WCF REST Starter Kit Preview 2 for http://nuget.org/packages/Microsoft.Net.Http
-* Create Task based version
+* Create awaitable Task based version
 * Make it easy to inject error extraction but default to web api model state errors
 * Add Json.Net as a Formatters option and make the formatters configurable similar to Web Api Formatters 
 * Add OAuth support
